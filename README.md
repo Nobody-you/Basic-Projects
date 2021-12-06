@@ -1,3 +1,3 @@
-# Easy-Projects
+# Basic-Projects
 Learning and improving.
 Learning and improving. This is an employee management system based on C and SQLite. The basic functions include adding, deleting, modifying and finding accounts. The administrator user will be automatically created and unique. The employee account can be created freely, but the job number is unique. Ordinary users can view their own information and modify all information except job number and salary, but can only view other people's job number, name, telephone and other basic information. In fact, this is an upgraded version of the student management system, with more functions and the addition of makefile.

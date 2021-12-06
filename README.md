@@ -1,2 +1,2 @@
-# Easy-Projects
+# Basic-Projects
 Learning and improving.
